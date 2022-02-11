@@ -1,1 +1,1 @@
-Домашняя работа: 
+[![Build status](https://ci.appveyor.com/api/projects/status/63ykmf8h56vglqd1?svg=true)](https://ci.appveyor.com/project/Sergl82/ajs-iterator)
